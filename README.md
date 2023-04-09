@@ -1,5 +1,4 @@
 <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" width=150>
-<br>
 
 # simple-openai-playground
  
