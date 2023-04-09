@@ -1,4 +1,5 @@
-![logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1024px-OpenAI_Logo.svg.png)
+<img src="https://user-images.githubusercontent.com/64290193/230755710-d2d14f78-9b56-46ba-ad67-f4b998032b8b.png" width=200>
+
 # simple-openai-playground
  
  This website aims to be a simple playground for the OpenAI API, containing two pages, one allowing the user to prompt GPT-3.5, and the other allowing the user to prompt DALLE.
