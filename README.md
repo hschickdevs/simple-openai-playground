@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/64290193/230755710-d2d14f78-9b56-46ba-ad67-f4b998032b8b.png" width=200>
+<img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" width=200>
 
 # simple-openai-playground
  
