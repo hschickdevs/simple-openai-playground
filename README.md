@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/64290193/230755710-d2d14f78-9b56-46ba-ad67-f4b998032b8b.png" width=200>
+<img src="https://user-images.githubusercontent.com/64290193/230755710-d2d14f78-9b56-46ba-ad67-f4b998032b8b.png" width=200 style="radius=0.5">
 
 # simple-openai-playground
  
