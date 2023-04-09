@@ -2,7 +2,7 @@
  
  This website aims to be a simple playground for the OpenAI API, containing two pages, one allowing the user to prompt GPT-3.5, and the other allowing the user to prompt DALLE.
 
- Developed using simple HTMl, JS, and CSS with Bootstrap for clean & simple styling
+ Developed using simple HTMl, JS, and CSS with Bootstrap for clean & simple styling, this codebase is great for beginners to get a feel for how OpenAI API queries can be sent and processed using JavaScript, and shown in a clean web UI. 
  
  ## How to Run Locally:
  
