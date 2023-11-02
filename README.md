@@ -1,6 +1,7 @@
-<img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" width=150>
-
-# simple-openai-playground
+<div align="center">
+ <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" width=150>
+ <h1>simple-openai-playground</h1>
+</div>
  
  This website aims to be a simple playground for the OpenAI API, containing two pages, one allowing the user to prompt GPT-3.5, and the other allowing the user to prompt DALLE.
 
